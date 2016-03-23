@@ -1,0 +1,27 @@
+*{
+margin:0;
+padding:0;
+border:0;
+}
+
+.Header {
+background-image: url("http://i.imgur.com/IJwL3I5.png");
+background-color: #cccccc;
+}
+
+.large_box {
+  background-image: url(http://i.imgur.com/VFIpuKt.png);
+}
+
+.pink_join{
+  background-image: url(http://i.imgur.com/IJwL3I5.png);
+}
+
+.Footer{
+  background-image: url(http://i.imgur.com/G7c5zE8.png);
+}
+
+
+      <img src="http://i.imgur.com/VFIpuKt.png" alt="Body">
+        <img src="http://i.imgur.com/IJwL3I5.png" alt="Pink Join Image">
+                <img src="http://i.imgur.com/G7c5zE8.png" alt="Footer Image">
