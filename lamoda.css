@@ -8,6 +8,7 @@ border:0;
   background-image: url("http://i.imgur.com/IJwL3I5.png");
   background-repeat: no-repeat;
   background-size: cover;
+  margin-bottom: -120px;
 }
 
 .girls{
@@ -67,6 +68,8 @@ border:0;
   text-align: center;
   background-position: bottom center;
   background-size: contain;
+  padding-bottom: 20px;
+  padding-top: 40px;
 
 }
 
@@ -126,7 +129,7 @@ overflow: hidden;
 }
 
 .icon_1{
-  border: blue 2px;
+    padding-bottom: 100px;
 }
 
 .icon_2{
@@ -157,9 +160,11 @@ h3{
 }
 h4{
   color: #8D5A52;
-  font-size: 22px;
-  font-family: 'Hind', sans-serif;
+  font-size: 24px;
+  font-family: 'Raleway',sans-serif;
+  font-weight: 300;
   line-height: 30px;
+  padding-top: 25px;
 }
 h5{
   color: #8D5A52;
